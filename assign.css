@@ -1,0 +1,64 @@
+.phone{
+    padding-top: 70px;
+    margin: 10px;
+    height: 650px;
+    float: right;
+}
+
+.insta{
+   padding-left: 80px;
+   padding-top: 80px;
+   
+}
+.third{
+    padding-top: 70px;
+    margin: 10px;
+    height: 650px;
+    float: right;
+    background-color: white;
+}
+.logbutton{
+    width: 361px;
+    background-color: dodgerblue;
+    color: whitesmoke;
+}
+
+.fb{
+    padding-left: 50px;
+    text-decoration: none;
+    
+}
+
+.forgot{
+    padding-left: 120px;
+}
+
+.qst{
+    padding-left: 10px;    
+}
+.logo{
+    margin: 20px;
+    height: 30px;
+}
+
+.sub {
+    width: 350px;
+    height: 100 px;
+    margin: 10px auto;
+    border: 1px solid #e6e6e6;
+    padding: 20px 50px;
+    background-color: #fff;
+}
+.get{
+    text-align: center;
+}
+.app a img{
+    text-align: center;
+    width: 135px;
+    height: 40px;
+    
+}
+.line{
+    padding-left: 180px;
+}
+
